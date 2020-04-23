@@ -15,7 +15,7 @@ def menu():
 		macro()
 	else:
 		os.system('cls')
-		print('dont be a dumbass type 1 or 2!')
+		print('type 1 or 2!')
 
 def Autoclicker():
 	from pynput.mouse import Button, Controller
